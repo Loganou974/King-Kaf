@@ -17,10 +17,7 @@ public class GameManager : Manager
 
     }
 
-    private void Start()
-    {
-        
-    }
+   
 
     private void InitAll()
     {
